@@ -4,7 +4,7 @@ Window *window;
 TextLayer *text_layer;
 
 void handle_init(void) {
-	// Create a window and text layer
+	// Create a window and text layeraaaaa
 	window = window_create();
 	text_layer = text_layer_create(GRect(0, 0, 144, 154));
 	
