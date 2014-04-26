@@ -3,9 +3,9 @@
     "resources": {
         "media": [
             {
-                "name": "SPRITE1",
+                "name": "SPRITE3",
                 "type": "png",
-                "file": "images/s1.png"
+                "file": "images/s3.png"
             },
             {
                 "name": "SPRITE2",
@@ -13,9 +13,9 @@
                 "file": "images/s2.png"
             },
             {
-                "name": "SPRITE3",
+                "name": "SPRITE1",
                 "type": "png",
-                "file": "images/s3.png"
+                "file": "images/s1.png"
             }
         ]
     },
