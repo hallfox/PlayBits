@@ -3,24 +3,14 @@
     "resources": {
         "media": [
             {
-                "name": "SPRITE3",
-                "type": "png",
-                "file": "images/s3.png"
-            },
-            {
-                "name": "SPRITE2",
-                "type": "png",
-                "file": "images/s2.png"
-            },
-            {
-                "name": "SPRITE1",
-                "type": "png",
-                "file": "images/s1.png"
-            },
-            {
-                "name": "SPRITE4",
+                "name": "SPRITE6",
                 "type": "png-trans",
-                "file": "images/s4.png"
+                "file": "images/s6.png"
+            },
+            {
+                "name": "TESTS1",
+                "type": "png-trans",
+                "file": "images/s1_2.png"
             },
             {
                 "name": "SPRITE5",
@@ -28,9 +18,9 @@
                 "file": "images/s5.png"
             },
             {
-                "name": "TESTS1",
+                "name": "SPRITE4",
                 "type": "png-trans",
-                "file": "images/s1_2.png"
+                "file": "images/s4.png"
             }
         ]
     },
