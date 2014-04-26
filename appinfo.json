@@ -3,6 +3,21 @@
     "resources": {
         "media": [
             {
+                "name": "SPRITE3",
+                "type": "png-trans",
+                "file": "images/s3.png"
+            },
+            {
+                "name": "SPRITE2",
+                "type": "png-trans",
+                "file": "images/s2.png"
+            },
+            {
+                "name": "SPRITE1",
+                "type": "png-trans",
+                "file": "images/s1.png"
+            },
+            {
                 "name": "SPRITE6",
                 "type": "png-trans",
                 "file": "images/s6.png"
