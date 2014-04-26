@@ -1,0 +1,18 @@
+{
+    "uuid": "7ac8c903-2f3f-4cd6-baa3-3ea0492a3847",
+    "resources": {
+        "media": []
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "CoRE-alition",
+    "shortName": "Play-Bits",
+    "longName": "Play-Bits",
+    "watchapp": {
+        "watchface": false
+    },
+    "versionCode": 1,
+    "appKeys": {},
+    "versionLabel": "1.0"
+}
