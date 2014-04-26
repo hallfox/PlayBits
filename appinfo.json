@@ -3,29 +3,19 @@
     "resources": {
         "media": [
             {
-                "name": "SPRITE5",
+                "name": "SPRITE1",
                 "type": "png",
-                "file": "images/s5.png"
+                "file": "images/s1.png"
             },
             {
-                "name": "SPRITE4",
+                "name": "SPRITE2",
                 "type": "png",
-                "file": "images/s4.png"
+                "file": "images/s2.png"
             },
             {
                 "name": "SPRITE3",
                 "type": "png",
                 "file": "images/s3.png"
-            },
-            {
-                "name": "miaou",
-                "type": "png",
-                "file": "images/s2.png"
-            },
-            {
-                "name": "SPRITE1",
-                "type": "png",
-                "file": "images/s1.png"
             }
         ]
     },
