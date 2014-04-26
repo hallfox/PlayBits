@@ -13,10 +13,10 @@ void handle_init(void) {
 	//text_layer = text_layer_create(GRect(0, 0, 144, 154));
   
   // Load Bitmap
-  sprite = gbitmap_create_with_resource(RESOURCE_ID_SPRITE1);
+  sprite = gbitmap_create_with_resource(RESOURCE_ID_TESTS1_BLACK);
    
   //Create BitmapLayer to show GBitmap and add to Window
-  layer = bitmap_layer_create(GRect(0, 0, 33, 33));
+  layer = bitmap_layer_create(GRect(0, 0, 60, 60));
   bitmap_layer_set_bitmap(layer, sprite);
   layer_add_child(window_get_root_layer(window), bitmap_layer_get_layer(layer));
 	
