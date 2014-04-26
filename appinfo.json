@@ -8,32 +8,37 @@
         "media": [
             {
                 "name": "SPRITE7",
-                "file": "images/s7.png",
+                "file": "images/onfyr.png",
+                "type": "png-trans"
+            },
+            {
+                "name": "SPRITE6",
+                "file": "images/nyeh.png",
                 "type": "png-trans"
             },
             {
                 "name": "SPRITE5",
-                "file": "images/s5.png",
+                "file": "images/flynn.png",
                 "type": "png-trans"
             },
             {
                 "name": "SPRITE4",
-                "file": "images/s4.png",
+                "file": "images/blargh.png",
                 "type": "png-trans"
             },
             {
                 "name": "SPRITE3",
-                "file": "images/s3.png",
+                "file": "images/demii.png",
                 "type": "png-trans"
             },
             {
                 "name": "SPRITE2",
-                "file": "images/s2.png",
+                "file": "images/miaou.png",
                 "type": "png-trans"
             },
             {
                 "name": "SPRITE1",
-                "file": "images/s1.png",
+                "file": "images/swish.png",
                 "type": "png-trans"
             },
             {
@@ -50,11 +55,6 @@
                 "name": "DOWN",
                 "file": "images/downarrow.png",
                 "type": "png"
-            },
-            {
-                "name": "SPRITE6",
-                "file": "images/s6.png",
-                "type": "png-trans"
             }
         ]
     },
