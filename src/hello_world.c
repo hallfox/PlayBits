@@ -3,22 +3,10 @@
 Window *window;
 TextLayer *text_layer;
 
-// Setup for s1.png
-GBitmap *sprite;
-BitmapLayer *layer;
-
 void handle_init(void) {
 	// Create a window and text layer
 	window = window_create();
 	text_layer = text_layer_create(GRect(0, 0, 144, 154));
-  
-  // Load Bitmap
-  sprite = gbitmap_create_with_resource(RESOURCE_ID_SPRITE1);
-   
-  //Create BitmapLayer to show GBitmap and add to Window
-  layer = bitmap_layer_create(GRect(0, 0, 33, 33));
-  bitmap_layer_set_bitmap(layer, sprite);
-  layer_add_child(window_get_root_layer(window), bitmap_layer_get_layer(layer));
 	
 	// Set the text, font, and text alignment
 	text_layer_set_text(text_layer, "Hi, I'm a Pebble!");
@@ -39,11 +27,6 @@ void handle_deinit(void) {
 	// Destroy the text layer
 	text_layer_destroy(text_layer);
 	
-  //Destroy GBitmaps
-  gbitmap_destroy(sprite); 
-  //Destroy BitmapLayers
-  bitmap_layer_destroy(layer);
-  
 	// Destroy the window
 	window_destroy(window);
 }

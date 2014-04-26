@@ -3,12 +3,22 @@
     "resources": {
         "media": [
             {
+                "name": "SPRITE5",
+                "type": "png",
+                "file": "images/s5.png"
+            },
+            {
+                "name": "SPRITE4",
+                "type": "png",
+                "file": "images/s4.png"
+            },
+            {
                 "name": "SPRITE3",
                 "type": "png",
                 "file": "images/s3.png"
             },
             {
-                "name": "SPRITE2",
+                "name": "miaou",
                 "type": "png",
                 "file": "images/s2.png"
             },
