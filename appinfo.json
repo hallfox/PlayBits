@@ -1,7 +1,23 @@
 {
     "uuid": "7ac8c903-2f3f-4cd6-baa3-3ea0492a3847",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "name": "SPRITE3",
+                "type": "png",
+                "file": "images/s3.png"
+            },
+            {
+                "name": "SPRITE2",
+                "type": "png",
+                "file": "images/s2.png"
+            },
+            {
+                "name": "SPRITE1",
+                "type": "png",
+                "file": "images/s1.png"
+            }
+        ]
     },
     "capabilities": [
         ""
