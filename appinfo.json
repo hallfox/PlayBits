@@ -3,29 +3,24 @@
     "resources": {
         "media": [
             {
-                "name": "SPRITE3",
+                "name": "MOUTH",
                 "type": "png-trans",
-                "file": "images/s3.png"
+                "file": "images/mouth.png"
             },
             {
-                "name": "SPRITE2",
+                "name": "UPP_ARM",
                 "type": "png-trans",
-                "file": "images/s2.png"
+                "file": "images/upper_arm.png"
             },
             {
-                "name": "SPRITE1",
+                "name": "LOW_ARM",
                 "type": "png-trans",
-                "file": "images/s1.png"
+                "file": "images/lower_arm.png"
             },
             {
-                "name": "SPRITE6",
+                "name": "SPRITE4",
                 "type": "png-trans",
-                "file": "images/s6.png"
-            },
-            {
-                "name": "TESTS1",
-                "type": "png-trans",
-                "file": "images/s1_2.png"
+                "file": "images/s4.png"
             },
             {
                 "name": "SPRITE5",
@@ -33,9 +28,29 @@
                 "file": "images/s5.png"
             },
             {
-                "name": "SPRITE4",
+                "name": "TESTS1",
                 "type": "png-trans",
-                "file": "images/s4.png"
+                "file": "images/s1_2.png"
+            },
+            {
+                "name": "SPRITE6",
+                "type": "png-trans",
+                "file": "images/s6.png"
+            },
+            {
+                "name": "SPRITE1",
+                "type": "png-trans",
+                "file": "images/s1.png"
+            },
+            {
+                "name": "SPRITE2",
+                "type": "png-trans",
+                "file": "images/s2.png"
+            },
+            {
+                "name": "SPRITE3",
+                "type": "png-trans",
+                "file": "images/s3.png"
             }
         ]
     },
