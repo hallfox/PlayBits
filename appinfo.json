@@ -1,84 +1,69 @@
 {
-    "uuid": "7ac8c903-2f3f-4cd6-baa3-3ea0492a3847",
-    "resources": {
-        "media": [
-            {
-                "name": "UP",
-                "type": "png",
-                "file": "images/uparrow.png"
-            },
-            {
-                "name": "STAR",
-                "type": "png",
-                "file": "images/star.png"
-            },
-            {
-                "name": "DOWN",
-                "type": "png",
-                "file": "images/downarrow.png"
-            },
-            {
-                "name": "SPRITE3",
-                "type": "png-trans",
-                "file": "images/s3.png"
-            },
-            {
-                "name": "SPRITE2",
-                "type": "png-trans",
-                "file": "images/s2.png"
-            },
-            {
-                "name": "SPRITE1",
-                "type": "png-trans",
-                "file": "images/s1.png"
-            },
-            {
-                "name": "SPRITE6",
-                "type": "png-trans",
-                "file": "images/s6.png"
-            },
-            {
-                "name": "TESTS1",
-                "type": "png-trans",
-                "file": "images/s1_2.png"
-            },
-            {
-                "name": "SPRITE5",
-                "type": "png-trans",
-                "file": "images/s5.png"
-            },
-            {
-                "name": "SPRITE4",
-                "type": "png-trans",
-                "file": "images/s4.png"
-            },
-            {
-                "name": "LOW_ARM",
-                "type": "png-trans",
-                "file": "images/lower_arm.png"
-            },
-            {
-                "name": "UPP_ARM",
-                "type": "png-trans",
-                "file": "images/upper_arm.png"
-            },
-            {
-                "name": "MOUTH",
-                "type": "png-trans",
-                "file": "images/mouth.png"
-            }
-        ]
-    },
+    "companyName": "CoRE-alition",
+    "appKeys": {},
     "capabilities": [
         ""
     ],
-    "companyName": "CoRE-alition",
-    "shortName": "Play-Bits",
+    "resources": {
+        "media": [
+            {
+                "name": "SPRITE7",
+                "file": "images/s7.png",
+                "type": "png-trans"
+            },
+            {
+                "name": "SPRITE5",
+                "file": "images/s5.png",
+                "type": "png-trans"
+            },
+            {
+                "name": "SPRITE4",
+                "file": "images/s4.png",
+                "type": "png-trans"
+            },
+            {
+                "name": "SPRITE3",
+                "file": "images/s3.png",
+                "type": "png-trans"
+            },
+            {
+                "name": "SPRITE2",
+                "file": "images/s2.png",
+                "type": "png-trans"
+            },
+            {
+                "name": "SPRITE1",
+                "file": "images/s1.png",
+                "type": "png-trans"
+            },
+            {
+                "name": "UP",
+                "file": "images/uparrow.png",
+                "type": "png"
+            },
+            {
+                "name": "STAR",
+                "file": "images/star.png",
+                "type": "png"
+            },
+            {
+                "name": "DOWN",
+                "file": "images/downarrow.png",
+                "type": "png"
+            },
+            {
+                "name": "SPRITE6",
+                "file": "images/s6.png",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "uuid": "7ac8c903-2f3f-4cd6-baa3-3ea0492a3847",
+    "versionCode": 1,
     "longName": "Play-Bits",
+    "shortName": "Play-Bits",
+    "versionLabel": "1.0",
     "watchapp": {
         "watchface": false
-    },
-    "versionCode": 1,
-    "appKeys": {},
-    "versionLabel": "1.0"
+    }
 }
